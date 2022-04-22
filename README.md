@@ -1,8 +1,6 @@
 ### Hi there 👋
 > To be a philosopher, one must axolotl questions.
 
-- 🏢 I am building a commercial construction company [Collins Constructions](https://github.com/ccfnq), with my brother
-
 [![Lockyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockyc&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lockyc&theme=darcula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
