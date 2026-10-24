@@ -10,6 +10,8 @@
 
 **[glance](https://github.com/Lockyc/glance)** — Fast, keyboard-driven macOS image viewer: instant arrow-key navigation through a folder, a full-window thumbnail grid with hover-enlarge preview, and the default handler for every image type except PDF.
 
+**[jot](https://github.com/Lockyc/jot)** — Hotkey-toggled macOS scratchpad — plain-text tabs, code-editor line ops, and text actions including stripping Claude's quote gutter
+
 **[lector](https://github.com/Lockyc/lector)** — Curated rendered docs - a macOS console of grouped tabs, each a local Markdown repo rendered live with hot-reload and simple editing.
 
 **[warden](https://github.com/Lockyc/warden)** — Curated terminals - a macOS console of grouped project tabs of embedded libghostty terminal surfaces.
