@@ -12,8 +12,6 @@
 
 **[flotilla](https://github.com/Lockyc/flotilla)** — A macOS workspace where any tab can head a group of documents (usually a Google Drive folder), each document open once, the session restored on relaunch.
 
-**[lector](https://github.com/Lockyc/lector)** — Curated rendered docs - a macOS console of grouped tabs, each a local Markdown repo rendered live with hot-reload and simple editing.
-
 **[glance](https://github.com/Lockyc/glance)** — Fast, keyboard-driven macOS image viewer: instant arrow-key navigation through a folder, a full-window thumbnail grid with hover-enlarge preview, and the default handler for every image type except PDF.
 
 **[manicule](https://github.com/Lockyc/manicule)** — macOS menu-bar default browser that routes each link to the right browser profile, with a fast icon-strip picker and rules learned from your picks.
@@ -55,5 +53,7 @@ Shared guts behind the apps above.
 Still published, no longer the focus.
 
 **[agentmux](https://github.com/Lockyc/agentmux)** — A configurable tmux launcher for agent sessions. Define your AI agents — or any CLI — in TOML; each opens in its own colour-coded tmux window and prefix-m cycles between them. Runs in any terminal.
+
+**[lector](https://github.com/Lockyc/lector)** — Curated rendered docs - a macOS console of grouped tabs, each a local Markdown repo rendered live with hot-reload and simple editing.
 
 <!-- fleet.sh profile: end -->
