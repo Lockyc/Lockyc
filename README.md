@@ -4,7 +4,11 @@
 
 ## Apps
 
+**[cooee](https://github.com/Lockyc/cooee)** — macOS menu-bar app that runs Google Meet in its own window and floats the other people's faces in an always-on-top window you snap to where you look.
+
 **[curator](https://github.com/Lockyc/curator)** — Curated browser keeper-tabs - a macOS console of grouped webview tabs, useful for dashboards, chat, and other persistent webview surfaces.
+
+**[darkfield](https://github.com/Lockyc/darkfield)** — macOS presenting app — only the windows you choose, on a clean canvas over your wallpaper, shared to a call or shown on a projector
 
 **[excerpt](https://github.com/Lockyc/excerpt)** — macOS screenshot tool: capture, scrolling capture and annotation, plus a cut tool that removes the middle of a screenshot and marks it with a torn seam
 
@@ -23,8 +27,6 @@
 **[warden](https://github.com/Lockyc/warden)** — Curated terminals - a macOS console of grouped project tabs of embedded libghostty terminal surfaces.
 
 ## Tools
-
-**[agentmux](https://github.com/Lockyc/agentmux)** — A configurable tmux launcher for agent sessions. Define your AI agents — or any CLI — in TOML; each opens in its own colour-coded tmux window and prefix-m cycles between them. Runs in any terminal.
 
 **[compositor](https://github.com/Lockyc/compositor)** — A Rust static-site generator for Markdown doc repos — a from-scratch MkDocs replacement (reusable render engine + CLI)
 
@@ -47,5 +49,11 @@ Shared guts behind the apps above.
 **[libghostty-build](https://github.com/Lockyc/libghostty-build)** — CI that builds Ghostty's embedding library from a pinned, unmodified upstream commit and publishes it as a release asset — build tooling, no library source of its own
 
 **[shell-core](https://github.com/Lockyc/shell-core)** — The shared Tauri app-shell + release tooling for warden, curator, lector, and flotilla
+
+## Dormant
+
+Still published, no longer the focus.
+
+**[agentmux](https://github.com/Lockyc/agentmux)** — A configurable tmux launcher for agent sessions. Define your AI agents — or any CLI — in TOML; each opens in its own colour-coded tmux window and prefix-m cycles between them. Runs in any terminal.
 
 <!-- fleet.sh profile: end -->
