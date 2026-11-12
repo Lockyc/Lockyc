@@ -16,13 +16,13 @@
 
 **[manicule](https://github.com/Lockyc/manicule)** — macOS menu-bar default browser that routes each link to the right browser profile, with a fast icon-strip picker and rules learned from your picks.
 
+**[darkfield](https://github.com/Lockyc/darkfield)** — Present only the windows you choose, on a clean canvas over your wallpaper, to a video call or a projector — macOS menu-bar app
+
+**[cooee](https://github.com/Lockyc/cooee)** — Google Meet in its own window, with an always-on-top window of the other people's faces that snaps to where you look. macOS menu-bar app (Tauri).
+
 **[jot](https://github.com/Lockyc/jot)** — Hotkey-toggled macOS scratchpad — plain-text tabs, code-editor line ops, and text actions including stripping Claude's quote gutter
 
 **[linkboy](https://github.com/Lockyc/linkboy)** — Fast, keyboard-driven macOS reader for link-aggregator feeds on Miniflux — each item's page and its comments, in logged-in web views
-
-**[cooee](https://github.com/Lockyc/cooee)** — macOS menu-bar app that runs Google Meet in its own window and floats the other people's faces in an always-on-top window you snap to where you look.
-
-**[darkfield](https://github.com/Lockyc/darkfield)** — macOS presenting app — only the windows you choose, on a clean canvas over your wallpaper, shared to a call or shown on a projector
 
 ## Tools
 
@@ -40,9 +40,9 @@
 
 Shared guts behind the apps above.
 
-**[shell-core](https://github.com/Lockyc/shell-core)** — The shared Tauri app-shell + release tooling for warden, curator, lector, and flotilla
-
 **[chrome-core](https://github.com/Lockyc/chrome-core)** — The shared sidebar UI for the warden, curator, lector, and flotilla apps — the grouped tab rows, resize-drag and density styling, written once as framework-free CSS + vanilla JS the apps embed at build time.
+
+**[shell-core](https://github.com/Lockyc/shell-core)** — The shared Tauri app-shell + release tooling for warden, curator, lector, and flotilla
 
 **[config-core](https://github.com/Lockyc/config-core)** — The shared config primitives behind warden, curator, lector and flotilla — house-formats each app's TOML config, edits windows, groups and tabs while preserving your comments, provides the leaf-free model types, resolves the config path, parses accent colours, discovers project roots, and writes a starter config on request.
 
