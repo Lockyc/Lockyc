@@ -6,7 +6,7 @@
 
 **[warden](https://github.com/lockyc/warden)** — Curated terminals - a macOS console of grouped project tabs of embedded libghostty terminal surfaces.
 
-**[excerpt](https://github.com/lockyc/excerpt)** — macOS screenshot tool: capture, scrolling capture and annotation, plus a cut tool that removes the middle of a screenshot and marks it with a torn seam
+**[excerpt](https://github.com/lockyc/excerpt)** — macOS screenshot tool: capture, scrolling capture, annotation and screen recording to GIF or MP4, plus a cut tool that removes the middle of a screenshot and marks it with a torn seam
 
 **[curator](https://github.com/lockyc/curator)** — Curated browser keeper-tabs - a macOS console of grouped webview tabs, useful for dashboards, chat, and other persistent webview surfaces.
 
